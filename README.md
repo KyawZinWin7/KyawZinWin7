@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/kz.w.589/**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyawZinWin7)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyawZinWin7&show_icons=true&theme=tokoyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
